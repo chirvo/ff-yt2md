@@ -1,0 +1,21 @@
+{
+  "name": "firefox-plugin",
+  "version": "1.0.0",
+  "description": "A Firefox extension that generates Markdown for YouTube videos.",
+  "main": "src/background.js",
+  "scripts": {
+    "build": "echo 'No build step required'",
+    "test": "echo 'No tests specified'"
+  },
+  "permissions": [
+    "tabs"
+  ],
+  "devDependencies": {},
+  "keywords": [
+    "firefox",
+    "plugin",
+    "extension"
+  ],
+  "author": "",
+  "license": "MIT"
+}
